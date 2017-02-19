@@ -1,0 +1,17 @@
+/*
+Theme Name:     Divi Kama
+Description:    
+Author:         Kamila An
+Template:       Divi
+
+(optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
+*/
+
+.et_pb_row.et_pb_equal_columns, .et_pb_row_inner.et_pb_equal_columns, .et_pb_section.et_pb_equal_columns > .et_pb_row {
+margin: 0 !important;
+padding: 0 !important:
+}
+
+#left-area ul, .entry-content ul, .comment-content ul, body.et-pb-preview #main-content .container ul li {
+    color: white;
+}
